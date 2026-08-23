@@ -1,0 +1,48 @@
+version: 1
+
+extends:
+  - toc.yml
+
+project:
+  title: Speech and Language Processing（第三版）中文翻译
+  description: Speech and Language Processing 第三版中文翻译项目
+  numbering:
+    equations: false
+  static_files:
+    - LXGWWenKai-Regular.ttf
+  keywords:
+    - 自然语言处理
+    - 语音与语言处理
+    - 大型语言模型
+    - Speech and Language Processing
+  exclude:
+    - _build/**
+    - MinerU-Skill/**
+    - ed3book_aug26.pdf
+    - "Chapter 0[2-6]/**"
+    - "Chapter 1[1-9]/**"
+    - "Chapter 2[0-6]/**"
+    - "Chapter 01/01_Introduction.md"
+    - "Chapter 01/sections/**"
+    - "Chapter 07/07_Transformers_and_Pretraining.md"
+    - "Chapter 07/sections/**"
+    - "Chapter 08/08_Post-training.md"
+    - "Chapter 08/sections/**"
+    - "Chapter 09/09_Masked_Language_Models.md"
+    - "Chapter 09/sections/**"
+    - "Chapter 10/10_Interpretability.md"
+    - "Chapter 10/sections/**"
+
+site:
+  template: book-theme
+  title: SLP3 中文翻译
+  options:
+    folders: true
+    style: book/static/book.css
+    favicon: book/static/favicon.svg
+    logo_text: SLP3 中文翻译
+  nav:
+    - title: 翻译进度
+      url: /book/progress
+    - title: 关于本项目
+      url: /book/about

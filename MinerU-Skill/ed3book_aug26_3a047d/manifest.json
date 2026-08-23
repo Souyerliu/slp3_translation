@@ -1,0 +1,282 @@
+[
+    {
+        "Number":  1,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Introduction",
+        "StartPage":  11,
+        "EndPage":  40,
+        "PageCount":  30,
+        "Pdf":  "split_pdf/01_Introduction.pdf"
+    },
+    {
+        "Number":  2,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Words and Tokens",
+        "StartPage":  41,
+        "EndPage":  75,
+        "PageCount":  35,
+        "Pdf":  "split_pdf/02_Words_and_Tokens.pdf"
+    },
+    {
+        "Number":  3,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "N-gram Language Models",
+        "StartPage":  76,
+        "EndPage":  99,
+        "PageCount":  24,
+        "Pdf":  "split_pdf/03_N-gram_Language_Models.pdf"
+    },
+    {
+        "Number":  4,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Logistic Regression",
+        "StartPage":  100,
+        "EndPage":  134,
+        "PageCount":  35,
+        "Pdf":  "split_pdf/04_Logistic_Regression.pdf"
+    },
+    {
+        "Number":  5,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Embeddings",
+        "StartPage":  135,
+        "EndPage":  158,
+        "PageCount":  24,
+        "Pdf":  "split_pdf/05_Embeddings.pdf"
+    },
+    {
+        "Number":  6,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Neural Networks",
+        "StartPage":  159,
+        "EndPage":  184,
+        "PageCount":  26,
+        "Pdf":  "split_pdf/06_Neural_Networks.pdf"
+    },
+    {
+        "Number":  7,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Transformers and Pretraining",
+        "StartPage":  185,
+        "EndPage":  216,
+        "PageCount":  32,
+        "Pdf":  "split_pdf/07_Transformers_and_Pretraining.pdf"
+    },
+    {
+        "Number":  8,
+        "Kind":  "chapter",
+        "Part":  "I Large Language Models",
+        "Title":  "Post-training",
+        "StartPage":  217,
+        "EndPage":  234,
+        "PageCount":  18,
+        "Pdf":  "split_pdf/08_Post-training.pdf"
+    },
+    {
+        "Number":  9,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Masked Language Models",
+        "StartPage":  235,
+        "EndPage":  250,
+        "PageCount":  16,
+        "Pdf":  "split_pdf/09_Masked_Language_Models.pdf"
+    },
+    {
+        "Number":  10,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Interpretability",
+        "StartPage":  251,
+        "EndPage":  259,
+        "PageCount":  9,
+        "Pdf":  "split_pdf/10_Interpretability.pdf"
+    },
+    {
+        "Number":  11,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Retrieval-based Models",
+        "StartPage":  260,
+        "EndPage":  282,
+        "PageCount":  23,
+        "Pdf":  "split_pdf/11_Retrieval-based_Models.pdf"
+    },
+    {
+        "Number":  12,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Agents",
+        "StartPage":  283,
+        "EndPage":  283,
+        "PageCount":  1,
+        "Pdf":  "split_pdf/12_Agents.pdf"
+    },
+    {
+        "Number":  13,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Machine Translation",
+        "StartPage":  284,
+        "EndPage":  309,
+        "PageCount":  26,
+        "Pdf":  "split_pdf/13_Machine_Translation.pdf"
+    },
+    {
+        "Number":  14,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "RNNs and LSTMs",
+        "StartPage":  310,
+        "EndPage":  335,
+        "PageCount":  26,
+        "Pdf":  "split_pdf/14_RNNs_and_LSTMs.pdf"
+    },
+    {
+        "Number":  15,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Phonetics and Speech Feature Extraction",
+        "StartPage":  336,
+        "EndPage":  364,
+        "PageCount":  29,
+        "Pdf":  "split_pdf/15_Phonetics_and_Speech_Feature_Extraction.pdf"
+    },
+    {
+        "Number":  16,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Automatic Speech Recognition",
+        "StartPage":  365,
+        "EndPage":  390,
+        "PageCount":  26,
+        "Pdf":  "split_pdf/16_Automatic_Speech_Recognition.pdf"
+    },
+    {
+        "Number":  17,
+        "Kind":  "chapter",
+        "Part":  "II Advanced LLM Topics and Tools",
+        "Title":  "Text-to-Speech",
+        "StartPage":  391,
+        "EndPage":  407,
+        "PageCount":  17,
+        "Pdf":  "split_pdf/17_Text-to-Speech.pdf"
+    },
+    {
+        "Number":  18,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Sequence Labeling for Parts of Speech and Named Entities",
+        "StartPage":  408,
+        "EndPage":  432,
+        "PageCount":  25,
+        "Pdf":  "split_pdf/18_Sequence_Labeling_for_Parts_of_Speech_and_Named_Entities.pdf"
+    },
+    {
+        "Number":  19,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Context-Free Grammars and Constituency Parsing",
+        "StartPage":  433,
+        "EndPage":  456,
+        "PageCount":  24,
+        "Pdf":  "split_pdf/19_Context-Free_Grammars_and_Constituency_Parsing.pdf"
+    },
+    {
+        "Number":  20,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Dependency Parsing",
+        "StartPage":  457,
+        "EndPage":  480,
+        "PageCount":  24,
+        "Pdf":  "split_pdf/20_Dependency_Parsing.pdf"
+    },
+    {
+        "Number":  21,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Information Extraction: Relations, Events, and Time",
+        "StartPage":  481,
+        "EndPage":  506,
+        "PageCount":  26,
+        "Pdf":  "split_pdf/21_Information_Extraction_Relations_Events_and_Time.pdf"
+    },
+    {
+        "Number":  22,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Semantic Role Labeling",
+        "StartPage":  507,
+        "EndPage":  526,
+        "PageCount":  20,
+        "Pdf":  "split_pdf/22_Semantic_Role_Labeling.pdf"
+    },
+    {
+        "Number":  23,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Lexicons for Sentiment, Affect, and Connotation",
+        "StartPage":  527,
+        "EndPage":  546,
+        "PageCount":  20,
+        "Pdf":  "split_pdf/23_Lexicons_for_Sentiment_Affect_and_Connotation.pdf"
+    },
+    {
+        "Number":  24,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Coreference Resolution and Entity Linking",
+        "StartPage":  547,
+        "EndPage":  576,
+        "PageCount":  30,
+        "Pdf":  "split_pdf/24_Coreference_Resolution_and_Entity_Linking.pdf"
+    },
+    {
+        "Number":  25,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Discourse Coherence",
+        "StartPage":  577,
+        "EndPage":  598,
+        "PageCount":  22,
+        "Pdf":  "split_pdf/25_Discourse_Coherence.pdf"
+    },
+    {
+        "Number":  26,
+        "Kind":  "chapter",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Conversation and its Structure",
+        "StartPage":  599,
+        "EndPage":  606,
+        "PageCount":  8,
+        "Pdf":  "split_pdf/26_Conversation_and_its_Structure.pdf"
+    },
+    {
+        "Number":  27,
+        "Kind":  "bibliography",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Bibliography",
+        "StartPage":  607,
+        "EndPage":  637,
+        "PageCount":  31,
+        "Pdf":  "split_pdf/27_Bibliography.pdf"
+    },
+    {
+        "Number":  28,
+        "Kind":  "index",
+        "Part":  "III Annotating Linguistic Structure",
+        "Title":  "Subject Index",
+        "StartPage":  638,
+        "EndPage":  646,
+        "PageCount":  9,
+        "Pdf":  "split_pdf/28_Subject_Index.pdf"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Neural_Networks",
+        "File":  "00_Neural_Networks.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "6.1",
+        "Title":  "Units",
+        "File":  "01_6.1_Units.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "6.2",
+        "Title":  "The XOR problem",
+        "File":  "02_6.2_The_XOR_problem.md",
+        "ImageCount":  7
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "6.3",
+        "Title":  "Feedforward Neural Networks",
+        "File":  "03_6.3_Feedforward_Neural_Networks.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "6.4",
+        "Title":  "Feedforward networks for NLP: Classification",
+        "File":  "04_6.4_Feedforward_networks_for_NLP_Classification.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "6.5",
+        "Title":  "Embeddings as the input to neural net classifiers",
+        "File":  "05_6.5_Embeddings_as_the_input_to_neural_net_classifiers.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "6.6",
+        "Title":  "Training Neural Nets",
+        "File":  "06_6.6_Training_Neural_Nets.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "6.7",
+        "Title":  "Summary",
+        "File":  "07_6.7_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "08_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Coreference_Resolution_and_Entity_Linking",
+        "File":  "00_Coreference_Resolution_and_Entity_Linking.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "24.1",
+        "Title":  "Coreference Phenomena: Linguistic Background",
+        "File":  "01_24.1_Coreference_Phenomena_Linguistic_Background.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "24.2",
+        "Title":  "Coreference Tasks and Datasets",
+        "File":  "02_24.2_Coreference_Tasks_and_Datasets.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "24.3",
+        "Title":  "Mention Detection",
+        "File":  "03_24.3_Mention_Detection.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "24.4",
+        "Title":  "Architectures for Coreference Algorithms",
+        "File":  "04_24.4_Architectures_for_Coreference_Algorithms.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "24.5",
+        "Title":  "Classifiers using hand-built features",
+        "File":  "05_24.5_Classifiers_using_hand-built_features.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "24.6",
+        "Title":  "A neural mention-ranking algorithm",
+        "File":  "06_24.6_A_neural_mention-ranking_algorithm.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "24.7",
+        "Title":  "Entity Linking",
+        "File":  "07_24.7_Entity_Linking.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "24.8",
+        "Title":  "Evaluation of Coreference Resolution",
+        "File":  "08_24.8_Evaluation_of_Coreference_Resolution.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "24.9",
+        "Title":  "Winograd Schema problems",
+        "File":  "09_24.9_Winograd_Schema_problems.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "24.10",
+        "Title":  "Gender Bias in Coreference",
+        "File":  "10_24.10_Gender_Bias_in_Coreference.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "numbered",
+        "Label":  "24.11",
+        "Title":  "Summary",
+        "File":  "11_24.11_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "12_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  13,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "13_Exercises.md",
+        "ImageCount":  0
+    }
+]

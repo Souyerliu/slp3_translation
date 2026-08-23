@@ -1,0 +1,66 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Dependency_Parsing",
+        "File":  "00_Dependency_Parsing.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "20.1",
+        "Title":  "Dependency Relations",
+        "File":  "01_20.1_Dependency_Relations.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "20.2",
+        "Title":  "Transition-Based Dependency Parsing",
+        "File":  "02_20.2_Transition-Based_Dependency_Parsing.md",
+        "ImageCount":  6
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "20.3",
+        "Title":  "Graph-Based Dependency Parsing",
+        "File":  "03_20.3_Graph-Based_Dependency_Parsing.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "20.4",
+        "Title":  "Evaluation",
+        "File":  "04_20.4_Evaluation.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "20.5",
+        "Title":  "Summary",
+        "File":  "05_20.5_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "06_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "07_Exercises.md",
+        "ImageCount":  0
+    }
+]

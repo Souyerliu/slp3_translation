@@ -1,0 +1,98 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Transformers_and_Pretraining",
+        "File":  "00_Transformers_and_Pretraining.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "7.1",
+        "Title":  "Attention",
+        "File":  "01_7.1_Attention.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "7.2",
+        "Title":  "Transformer Blocks",
+        "File":  "02_7.2_Transformer_Blocks.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "7.3",
+        "Title":  "Parallelizing computation using a single matrix X",
+        "File":  "03_7.3_Parallelizing_computation_using_a_single_matrix_X.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "7.4",
+        "Title":  "The input: embeddings for token and position",
+        "File":  "04_7.4_The_input_embeddings_for_token_and_position.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "7.5",
+        "Title":  "The Language Modeling Head",
+        "File":  "05_7.5_The_Language_Modeling_Head.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "7.6",
+        "Title":  "Decoding",
+        "File":  "06_7.6_Decoding.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "7.7",
+        "Title":  "Pretraining Transformer LLMs",
+        "File":  "07_7.7_Pretraining_Transformer_LLMs.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "7.8",
+        "Title":  "Current models and some numbers",
+        "File":  "08_7.8_Current_models_and_some_numbers.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "7.9",
+        "Title":  "Summary",
+        "File":  "09_7.9_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "10_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "11_Exercises.md",
+        "ImageCount":  0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Conversation_and_its_Structure",
+        "File":  "00_Conversation_and_its_Structure.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "26.1",
+        "Title":  "Properties of Human Conversation",
+        "File":  "01_26.1_Properties_of_Human_Conversation.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "26.2",
+        "Title":  "Dialog Acts and Corpora",
+        "File":  "02_26.2_Dialog_Acts_and_Corpora.md",
+        "ImageCount":  0
+    }
+]

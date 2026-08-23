@@ -1,0 +1,106 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Embeddings",
+        "File":  "00_Embeddings.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "5.1",
+        "Title":  "Lexical Semantics",
+        "File":  "01_5.1_Lexical_Semantics.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "5.2",
+        "Title":  "Vector Semantics: The Intuition",
+        "File":  "02_5.2_Vector_Semantics_The_Intuition.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "5.3",
+        "Title":  "Simple count-based embeddings",
+        "File":  "03_5.3_Simple_count-based_embeddings.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "5.4",
+        "Title":  "Cosine for Measuring Similarity",
+        "File":  "04_5.4_Cosine_for_Measuring_Similarity.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "5.5",
+        "Title":  "Word2vec",
+        "File":  "05_5.5_Word2vec.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "5.6",
+        "Title":  "Visualizing Embeddings\u003csup\u003eDOG\u003c/sup\u003eCAT",
+        "File":  "06_5.6_Visualizing_EmbeddingsDOGCAT.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "5.7",
+        "Title":  "Semantic properties of embeddings",
+        "File":  "07_5.7_Semantic_properties_of_embeddings.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "5.8",
+        "Title":  "Bias and Embeddings",
+        "File":  "08_5.8_Bias_and_Embeddings.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "5.9",
+        "Title":  "Evaluating Vector Models",
+        "File":  "09_5.9_Evaluating_Vector_Models.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "5.10",
+        "Title":  "Summary",
+        "File":  "10_5.10_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "11_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "12_Exercises.md",
+        "ImageCount":  0
+    }
+]

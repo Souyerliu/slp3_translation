@@ -1,0 +1,68 @@
+version: 1
+
+project:
+  toc:
+    - file: book/index.md
+      title: 首页
+    - file: book/progress.md
+      title: 翻译进度
+    - file: Chapter 01/translations_zh/00_Introduction_zh.md
+      title: 第 1 章 引言
+      children:
+        - file: Chapter 01/translations_zh/01_1.1_What_is_a_Large_Language_Model_zh.md
+        - file: Chapter 01/translations_zh/02_1.2_What_do_LLMs_Learn_From_Word_Token_Prediction_zh.md
+        - file: Chapter 01/translations_zh/03_1.3_Underpinnings_Neural_Networks_and_Embeddings_zh.md
+        - file: Chapter 01/translations_zh/04_1.4_A_Brief_History_of_Speech_and_Language_Processing_zh.md
+        - file: Chapter 01/translations_zh/05_1.5_Linguistic_Structure_and_Interpretability_zh.md
+        - file: Chapter 01/translations_zh/06_1.6_How_Language_Models_are_Trained_zh.md
+        - file: Chapter 01/translations_zh/07_1.7_Inference_zh.md
+        - file: Chapter 01/translations_zh/08_1.8_Agents_zh.md
+        - file: Chapter 01/translations_zh/09_1.9_Evaluating_Large_Language_Models_zh.md
+        - file: Chapter 01/translations_zh/10_1.10_Safety_and_Alignment_zh.md
+        - file: Chapter 01/translations_zh/11_1.11_Anthropomorphism_and_Terminology_zh.md
+        - file: Chapter 01/translations_zh/12_Exercises_zh.md
+    - file: Chapter 07/translations_zh/00_Transformers_and_Pretraining_zh.md
+      title: 第 7 章 Transformer 与预训练
+      children:
+        - file: Chapter 07/translations_zh/01_7.1_Attention_zh.md
+        - file: Chapter 07/translations_zh/02_7.2_Transformer_Blocks_zh.md
+        - file: Chapter 07/translations_zh/03_7.3_Parallelizing_computation_using_a_single_matrix_X_zh.md
+        - file: Chapter 07/translations_zh/04_7.4_The_input_embeddings_for_token_and_position_zh.md
+        - file: Chapter 07/translations_zh/05_7.5_The_Language_Modeling_Head_zh.md
+        - file: Chapter 07/translations_zh/06_7.6_Decoding_zh.md
+        - file: Chapter 07/translations_zh/07_7.7_Pretraining_Transformer_LLMs_zh.md
+        - file: Chapter 07/translations_zh/08_7.8_Current_models_and_some_numbers_zh.md
+        - file: Chapter 07/translations_zh/09_7.9_Summary_zh.md
+        - file: Chapter 07/translations_zh/10_Historical_Notes_zh.md
+        - file: Chapter 07/translations_zh/11_Exercises_zh.md
+    - file: Chapter 08/translations_zh/00_Post-training_zh.md
+      title: 第 8 章 后训练
+      children:
+        - file: Chapter 08/translations_zh/01_8.1_Instruction_Tuning_zh.md
+        - file: Chapter 08/translations_zh/02_8.2_Parameter_Efficient_Fine_Tuning_zh.md
+        - file: Chapter 08/translations_zh/03_8.3_Learning_from_Preferences_zh.md
+        - file: Chapter 08/translations_zh/04_8.4_LLM_Alignment_via_Preference-Based_Learning_zh.md
+        - file: Chapter 08/translations_zh/05_8.5_Summary_zh.md
+        - file: Chapter 08/translations_zh/06_Historical_Notes_zh.md
+    - file: Chapter 09/translations_zh/00_Masked_Language_Models_zh.md
+      title: 第 9 章 掩码语言模型
+      children:
+        - file: Chapter 09/translations_zh/01_9.1_Three_architectures_for_language_models_zh.md
+        - file: Chapter 09/translations_zh/02_9.2_Bidirectional_Transformer_Encoders_zh.md
+        - file: Chapter 09/translations_zh/03_9.3_Training_Bidirectional_Encoders_zh.md
+        - file: Chapter 09/translations_zh/04_9.4_Fine-Tuning_for_Classification_zh.md
+        - file: Chapter 09/translations_zh/05_9.5_Fine-Tuning_for_Sequence_Labeling_Named_Entity_Recognition_zh.md
+        - file: Chapter 09/translations_zh/06_9.6_Summary_zh.md
+        - file: Chapter 09/translations_zh/07_Historical_Notes_zh.md
+    - file: Chapter 10/translations_zh/00_Interpretability_zh.md
+      title: 第 10 章 可解释性
+      children:
+        - file: Chapter 10/translations_zh/01_10.1_Contextual_Embeddings_zh.md
+        - file: Chapter 10/translations_zh/02_10.2_Probing_zh.md
+        - file: Chapter 10/translations_zh/03_10.3_The_Logit_Lens_zh.md
+        - file: Chapter 10/translations_zh/04_10.4_Sparse_Auto-Encoders_zh.md
+        - file: Chapter 10/translations_zh/05_10.5_Causal_Interpretability_Techniques_zh.md
+        - file: Chapter 10/translations_zh/06_10.6_In-Context_Learning_and_Induction_Heads_zh.md
+    - file: book/about.md
+      title: 关于本项目
+

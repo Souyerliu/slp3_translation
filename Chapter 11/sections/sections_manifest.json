@@ -1,0 +1,82 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Retrieval-based_Models",
+        "File":  "00_Retrieval-based_Models.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "11.1",
+        "Title":  "Information Retrieval",
+        "File":  "01_11.1_Information_Retrieval.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "11.2",
+        "Title":  "Evaluation of Information-Retrieval Systems",
+        "File":  "02_11.2_Evaluation_of_Information-Retrieval_Systems.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "11.3",
+        "Title":  "Information Retrieval with Dense Vectors",
+        "File":  "03_11.3_Information_Retrieval_with_Dense_Vectors.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "11.4",
+        "Title":  "Retrieval-Augmented Generation (RAG)",
+        "File":  "04_11.4_Retrieval-Augmented_Generation_RAG.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "11.5",
+        "Title":  "Datasets",
+        "File":  "05_11.5_Datasets.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "11.6",
+        "Title":  "Evaluating Question Answering",
+        "File":  "06_11.6_Evaluating_Question_Answering.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "11.7",
+        "Title":  "Summary",
+        "File":  "07_11.7_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "08_Historical_Notes.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  9,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "09_Exercises.md",
+        "ImageCount":  0
+    }
+]

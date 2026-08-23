@@ -1,0 +1,58 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Interpretability",
+        "File":  "00_Interpretability.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "10.1",
+        "Title":  "Contextual Embeddings",
+        "File":  "01_10.1_Contextual_Embeddings.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "10.2",
+        "Title":  "Probing",
+        "File":  "02_10.2_Probing.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "10.3",
+        "Title":  "The Logit Lens",
+        "File":  "03_10.3_The_Logit_Lens.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "10.4",
+        "Title":  "Sparse Auto-Encoders",
+        "File":  "04_10.4_Sparse_Auto-Encoders.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "10.5",
+        "Title":  "Causal Interpretability Techniques",
+        "File":  "05_10.5_Causal_Interpretability_Techniques.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "10.6",
+        "Title":  "In-Context Learning and Induction Heads",
+        "File":  "06_10.6_In-Context_Learning_and_Induction_Heads.md",
+        "ImageCount":  1
+    }
+]

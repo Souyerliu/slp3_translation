@@ -1,0 +1,154 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Logistic_Regression",
+        "File":  "00_Logistic_Regression.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "4.1",
+        "Title":  "Machine learning and classification",
+        "File":  "01_4.1_Machine_learning_and_classification.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "4.2",
+        "Title":  "The sigmoid function",
+        "File":  "02_4.2_The_sigmoid_function.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "4.3",
+        "Title":  "Classification with Logistic Regression",
+        "File":  "03_4.3_Classification_with_Logistic_Regression.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "4.4",
+        "Title":  "Learning in Logistic Regression",
+        "File":  "04_4.4_Learning_in_Logistic_Regression.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "4.5",
+        "Title":  "The cross-entropy loss function",
+        "File":  "05_4.5_The_cross-entropy_loss_function.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "4.6",
+        "Title":  "Gradient Descent",
+        "File":  "06_4.6_Gradient_Descent.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "4.7",
+        "Title":  "Multinomial logistic regression",
+        "File":  "07_4.7_Multinomial_logistic_regression.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "4.8",
+        "Title":  "Learning in Multinomial Logistic Regression",
+        "File":  "08_4.8_Learning_in_Multinomial_Logistic_Regression.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "4.9",
+        "Title":  "Evaluation: Precision, Recall, F-measure",
+        "File":  "09_4.9_Evaluation_Precision_Recall_F-measure.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "4.10",
+        "Title":  "Test sets and Cross-validation",
+        "File":  "10_4.10_Test_sets_and_Cross-validation.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  11,
+        "Kind":  "numbered",
+        "Label":  "4.11",
+        "Title":  "Statistical Significance Testing",
+        "File":  "11_4.11_Statistical_Significance_Testing.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "numbered",
+        "Label":  "4.12",
+        "Title":  "Avoiding Harms in Classification",
+        "File":  "12_4.12_Avoiding_Harms_in_Classification.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  13,
+        "Kind":  "numbered",
+        "Label":  "4.13",
+        "Title":  "Interpreting models",
+        "File":  "13_4.13_Interpreting_models.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  14,
+        "Kind":  "numbered",
+        "Label":  "4.14",
+        "Title":  "Advanced: Regularization",
+        "File":  "14_4.14_Advanced_Regularization.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  15,
+        "Kind":  "numbered",
+        "Label":  "4.15",
+        "Title":  "Advanced: Deriving the Gradient Equation",
+        "File":  "15_4.15_Advanced_Deriving_the_Gradient_Equation.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  16,
+        "Kind":  "numbered",
+        "Label":  "4.16",
+        "Title":  "Summary",
+        "File":  "16_4.16_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  17,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "17_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  18,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "18_Exercises.md",
+        "ImageCount":  0
+    }
+]

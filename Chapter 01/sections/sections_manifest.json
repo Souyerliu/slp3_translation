@@ -1,0 +1,106 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Introduction",
+        "File":  "00_Introduction.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "1.1",
+        "Title":  "What is a Large Language Model?",
+        "File":  "01_1.1_What_is_a_Large_Language_Model.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "1.2",
+        "Title":  "What do LLMs Learn From Word (Token) Prediction?",
+        "File":  "02_1.2_What_do_LLMs_Learn_From_Word_Token_Prediction.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "1.3",
+        "Title":  "Underpinnings: Neural Networks and Embeddings",
+        "File":  "03_1.3_Underpinnings_Neural_Networks_and_Embeddings.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "1.4",
+        "Title":  "A Brief History of Speech and Language Processing",
+        "File":  "04_1.4_A_Brief_History_of_Speech_and_Language_Processing.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "1.5",
+        "Title":  "Linguistic Structure and Interpretability",
+        "File":  "05_1.5_Linguistic_Structure_and_Interpretability.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "1.6",
+        "Title":  "How Language Models are Trained",
+        "File":  "06_1.6_How_Language_Models_are_Trained.md",
+        "ImageCount":  6
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "1.7",
+        "Title":  "Inference",
+        "File":  "07_1.7_Inference.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "1.8",
+        "Title":  "Agents",
+        "File":  "08_1.8_Agents.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "1.9",
+        "Title":  "Evaluating Large Language Models",
+        "File":  "09_1.9_Evaluating_Large_Language_Models.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "1.10",
+        "Title":  "Safety and Alignment",
+        "File":  "10_1.10_Safety_and_Alignment.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  11,
+        "Kind":  "numbered",
+        "Label":  "1.11",
+        "Title":  "Anthropomorphism and Terminology",
+        "File":  "11_1.11_Anthropomorphism_and_Terminology.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "12_Exercises.md",
+        "ImageCount":  0
+    }
+]

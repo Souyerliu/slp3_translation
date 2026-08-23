@@ -1,0 +1,6 @@
+_build/
+.venv-book/
+node_modules/
+.myst/
+.editor-backups/
+__pycache__/

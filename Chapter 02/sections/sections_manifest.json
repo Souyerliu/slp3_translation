@@ -1,0 +1,106 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Words_and_Tokens",
+        "File":  "00_Words_and_Tokens.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "2.1",
+        "Title":  "Words",
+        "File":  "01_2.1_Words.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "2.2",
+        "Title":  "Morphemes: Parts of Words",
+        "File":  "02_2.2_Morphemes_Parts_of_Words.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "2.3",
+        "Title":  "Unicode",
+        "File":  "03_2.3_Unicode.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "2.4",
+        "Title":  "Subword Tokenization: Byte-Pair Encoding",
+        "File":  "04_2.4_Subword_Tokenization_Byte-Pair_Encoding.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "2.5",
+        "Title":  "Corpora",
+        "File":  "05_2.5_Corpora.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "2.6",
+        "Title":  "Regular Expressions",
+        "File":  "06_2.6_Regular_Expressions.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "2.7",
+        "Title":  "Simple Unix Tools for Word Tokenization",
+        "File":  "07_2.7_Simple_Unix_Tools_for_Word_Tokenization.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "2.8",
+        "Title":  "Rule-based Tokenization",
+        "File":  "08_2.8_Rule-based_Tokenization.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "2.9",
+        "Title":  "Minimum Edit Distance",
+        "File":  "09_2.9_Minimum_Edit_Distance.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "2.10",
+        "Title":  "Summary",
+        "File":  "10_2.10_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "11_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "12_Exercises.md",
+        "ImageCount":  0
+    }
+]

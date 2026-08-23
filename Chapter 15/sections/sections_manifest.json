@@ -1,0 +1,82 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Phonetics_and_Speech_Feature_Extraction",
+        "File":  "00_Phonetics_and_Speech_Feature_Extraction.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "15.1",
+        "Title":  "Speech Sounds and Phonetic Transcription",
+        "File":  "01_15.1_Speech_Sounds_and_Phonetic_Transcription.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "15.2",
+        "Title":  "Articulatory Phonetics",
+        "File":  "02_15.2_Articulatory_Phonetics.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "15.3",
+        "Title":  "Prosody",
+        "File":  "03_15.3_Prosody.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "15.4",
+        "Title":  "Acoustic Phonetics and Signals",
+        "File":  "04_15.4_Acoustic_Phonetics_and_Signals.md",
+        "ImageCount":  15
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "15.5",
+        "Title":  "Feature Extraction for Speech Recognition: Log Mel Spectrum",
+        "File":  "05_15.5_Feature_Extraction_for_Speech_Recognition_Log_Mel_Spectrum.md",
+        "ImageCount":  6
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "15.6",
+        "Title":  "MFCC: Mel Frequency Cepstral Coefficients",
+        "File":  "06_15.6_MFCC_Mel_Frequency_Cepstral_Coefficients.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "15.7",
+        "Title":  "Summary",
+        "File":  "07_15.7_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "08_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "09_Exercises.md",
+        "ImageCount":  0
+    }
+]

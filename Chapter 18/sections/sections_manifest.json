@@ -1,0 +1,90 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Sequence_Labeling_for_Parts_of_Speech_and_Named_Entities",
+        "File":  "00_Sequence_Labeling_for_Parts_of_Speech_and_Named_Entities.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "18.1",
+        "Title":  "(Mostly) English Word Classes",
+        "File":  "01_18.1_Mostly_English_Word_Classes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "18.2",
+        "Title":  "Part-of-Speech Tagging",
+        "File":  "02_18.2_Part-of-Speech_Tagging.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "18.3",
+        "Title":  "Named Entities and Named Entity Tagging",
+        "File":  "03_18.3_Named_Entities_and_Named_Entity_Tagging.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "18.4",
+        "Title":  "HMM Part-of-Speech Tagging",
+        "File":  "04_18.4_HMM_Part-of-Speech_Tagging.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "18.5",
+        "Title":  "Conditional Random Fields (CRFs)",
+        "File":  "05_18.5_Conditional_Random_Fields_CRFs.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "18.6",
+        "Title":  "Evaluation of Named Entity Recognition",
+        "File":  "06_18.6_Evaluation_of_Named_Entity_Recognition.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "18.7",
+        "Title":  "Further Details",
+        "File":  "07_18.7_Further_Details.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "18.8",
+        "Title":  "Summary",
+        "File":  "08_18.8_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "09_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "10_Exercises.md",
+        "ImageCount":  0
+    }
+]

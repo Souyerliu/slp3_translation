@@ -1,0 +1,74 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Discourse_Coherence",
+        "File":  "00_Discourse_Coherence.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "25.1",
+        "Title":  "Coherence Relations",
+        "File":  "01_25.1_Coherence_Relations.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "25.2",
+        "Title":  "Discourse Structure Parsing",
+        "File":  "02_25.2_Discourse_Structure_Parsing.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "25.3",
+        "Title":  "Centering and Entity-Based Coherence",
+        "File":  "03_25.3_Centering_and_Entity-Based_Coherence.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "25.4",
+        "Title":  "Representation learning models for local coherence",
+        "File":  "04_25.4_Representation_learning_models_for_local_coherence.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "25.5",
+        "Title":  "Global Coherence",
+        "File":  "05_25.5_Global_Coherence.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "25.6",
+        "Title":  "Summary",
+        "File":  "06_25.6_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "07_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "08_Exercises.md",
+        "ImageCount":  0
+    }
+]

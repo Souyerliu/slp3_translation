@@ -1,0 +1,90 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "N-gram_Language_Models",
+        "File":  "00_N-gram_Language_Models.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "3.1",
+        "Title":  "N-Grams",
+        "File":  "01_3.1_N-Grams.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "3.2",
+        "Title":  "Evaluating Language Models: Training and Test Sets",
+        "File":  "02_3.2_Evaluating_Language_Models_Training_and_Test_Sets.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "3.3",
+        "Title":  "Evaluating Language Models: Perplexity",
+        "File":  "03_3.3_Evaluating_Language_Models_Perplexity.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "3.4",
+        "Title":  "Sampling sentences from a language model",
+        "File":  "04_3.4_Sampling_sentences_from_a_language_model.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "3.5",
+        "Title":  "Generalizing vs. overfitting the training set",
+        "File":  "05_3.5_Generalizing_vs._overfitting_the_training_set.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "3.6",
+        "Title":  "Smoothing, Interpolation, and Backoff",
+        "File":  "06_3.6_Smoothing_Interpolation_and_Backoff.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "3.7",
+        "Title":  "Advanced: Perplexity’s Relation to Entropy",
+        "File":  "07_3.7_Advanced_Perplexity_s_Relation_to_Entropy.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "3.8",
+        "Title":  "Summary",
+        "File":  "08_3.8_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "09_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "10_Exercises.md",
+        "ImageCount":  0
+    }
+]

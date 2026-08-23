@@ -1,0 +1,15 @@
+# Words and Tokens
+
+User: I need some help, that much seems certain. ELIZA: WHAT WOULD IT MEAN TO YOU IF YOU GOT SOME HELP User: Perhaps I could learn to get along with my mother. ELIZA: TELL ME MORE ABOUT YOUR FAMILY User: My mother takes care of me. ELIZA: WHO ELSE IN YOUR FAMILY TAKES CARE OF YOU User: My father. ELIZA: YOUR FATHER User: You are like my father in some ways.
+
+Weizenbaum (1966)
+
+The dialogue above is from ELIZA, an early natural language processing system that could carry on a limited conversation with a user by imitating the responses of a Rogerian psychotherapist (Weizenbaum, 1966). ELIZA is a surprisingly simple program that uses pattern matching on words to recognize phrases like “I need X” and change the words into suitable outputs like “What would it mean to you if you got X?”. ELIZA’s mimicry of human conversation, while very crude by modern standards, was remarkably successful: many people who interacted with ELIZA came to believe that it really understood them. As a result, this work led researchers to first think about the impacts of chatbots on their users (Weizenbaum, 1976).
+
+Of course modern chatbots don’t use the simple pattern-based mimicry that ELIZA pioneered. Yet the pattern-based approach to words instantiated in ELIZA is still relevant today in the context of tokenization, the task of separating out or tokenizing words and word parts from running text. Tokenization, the first step in modern NLP, includes pattern-based approaches that date back to ELIZA.
+
+To understand tokenization we first need to ask: What is a word? Is um a word? What about New York? Is the nature of words similar across languages? Some languages, like Vietnamese or Cantonese, have very short words while others, like Turkish, have very long words. We also need to think about how to represent words in terms of characters. We’ll introduce Unicode, the modern system for representing characters, and the UTF-8 text encoding. And we’ll introduce the morpheme, the meaningful subpart of words (like the morpheme -er in the word longer).
+
+The standard way to tokenize text is to use the input characters to guide us. So once we understand the possible subparts of words, we’ll introduce the standard Byte-Pair Encoding (BPE) algorithm that automatically breaks up input text into tokens. This algorithm uses simple statistics of letter sequences to induce a vocabulary of subword tokens. All tokenization systems also depend on regular expressions as a processing step. The regular expression is a language for formally specifying and manipulating text strings, an important tool in all modern NLP systems. We’ll introduce regular expressions and show examples of their use.
+
+Finally, we’ll introduce a metric called edit distance that measures how similar two words or strings are based on the number of edits (insertions, deletions, substitutions) it takes to change one string into the other. Edit distance plays a role in NLP whenever we need to compare two words or strings, for example in the crucial word error rate metric for automatic speech recognition.

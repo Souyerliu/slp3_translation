@@ -1,0 +1,90 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Machine_Translation",
+        "File":  "00_Machine_Translation.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "13.1",
+        "Title":  "Language Divergences and Typology",
+        "File":  "01_13.1_Language_Divergences_and_Typology.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "13.2",
+        "Title":  "Machine Translation using Encoder-Decoder",
+        "File":  "02_13.2_Machine_Translation_using_Encoder-Decoder.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "13.3",
+        "Title":  "Details of the Encoder-Decoder Model",
+        "File":  "03_13.3_Details_of_the_Encoder-Decoder_Model.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "13.4",
+        "Title":  "Decoding in MT: Beam Search",
+        "File":  "04_13.4_Decoding_in_MT_Beam_Search.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "13.5",
+        "Title":  "Translating in low-resource situations",
+        "File":  "05_13.5_Translating_in_low-resource_situations.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "13.6",
+        "Title":  "MT Evaluation",
+        "File":  "06_13.6_MT_Evaluation.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "13.7",
+        "Title":  "Bias and Ethical Issues",
+        "File":  "07_13.7_Bias_and_Ethical_Issues.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "13.8",
+        "Title":  "Summary",
+        "File":  "08_13.8_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "09_Historical_Notes.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "10_Exercises.md",
+        "ImageCount":  0
+    }
+]

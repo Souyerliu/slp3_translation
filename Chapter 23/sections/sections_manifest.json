@@ -1,0 +1,106 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Lexicons_for_Sentiment_Affect_and_Connotation",
+        "File":  "00_Lexicons_for_Sentiment_Affect_and_Connotation.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "23.1",
+        "Title":  "Defining Emotion",
+        "File":  "01_23.1_Defining_Emotion.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "23.2",
+        "Title":  "Available Sentiment and Affect Lexicons",
+        "File":  "02_23.2_Available_Sentiment_and_Affect_Lexicons.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "23.3",
+        "Title":  "Creating Affect Lexicons by Human Labeling",
+        "File":  "03_23.3_Creating_Affect_Lexicons_by_Human_Labeling.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "23.4",
+        "Title":  "Semi-supervised Induction of Affect Lexicons",
+        "File":  "04_23.4_Semi-supervised_Induction_of_Affect_Lexicons.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "23.5",
+        "Title":  "Supervised Learning of Word Sentiment",
+        "File":  "05_23.5_Supervised_Learning_of_Word_Sentiment.md",
+        "ImageCount":  7
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "23.6",
+        "Title":  "Using Lexicons for Sentiment Recognition",
+        "File":  "06_23.6_Using_Lexicons_for_Sentiment_Recognition.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "23.7",
+        "Title":  "Using Lexicons for Affect Recognition",
+        "File":  "07_23.7_Using_Lexicons_for_Affect_Recognition.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "23.8",
+        "Title":  "Lexicon-based methods for Entity-Centric Affect",
+        "File":  "08_23.8_Lexicon-based_methods_for_Entity-Centric_Affect.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "23.9",
+        "Title":  "Connotation Frames",
+        "File":  "09_23.9_Connotation_Frames.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "23.10",
+        "Title":  "Summary",
+        "File":  "10_23.10_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "11_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "12_Exercises.md",
+        "ImageCount":  0
+    }
+]

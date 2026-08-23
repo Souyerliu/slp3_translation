@@ -1,0 +1,58 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Post-training",
+        "File":  "00_Post-training.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "8.1",
+        "Title":  "Instruction Tuning",
+        "File":  "01_8.1_Instruction_Tuning.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "8.2",
+        "Title":  "Parameter Efficient Fine Tuning",
+        "File":  "02_8.2_Parameter_Efficient_Fine_Tuning.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "8.3",
+        "Title":  "Learning from Preferences",
+        "File":  "03_8.3_Learning_from_Preferences.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "8.4",
+        "Title":  "LLM Alignment via Preference-Based Learning",
+        "File":  "04_8.4_LLM_Alignment_via_Preference-Based_Learning.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "8.5",
+        "Title":  "Summary",
+        "File":  "05_8.5_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "06_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Masked_Language_Models",
+        "File":  "00_Masked_Language_Models.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "9.1",
+        "Title":  "Three architectures for language models",
+        "File":  "01_9.1_Three_architectures_for_language_models.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "9.2",
+        "Title":  "Bidirectional Transformer Encoders",
+        "File":  "02_9.2_Bidirectional_Transformer_Encoders.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "9.3",
+        "Title":  "Training Bidirectional Encoders",
+        "File":  "03_9.3_Training_Bidirectional_Encoders.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "9.4",
+        "Title":  "Fine-Tuning for Classification",
+        "File":  "04_9.4_Fine-Tuning_for_Classification.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "9.5",
+        "Title":  "Fine-Tuning for Sequence Labeling: Named Entity Recognition",
+        "File":  "05_9.5_Fine-Tuning_for_Sequence_Labeling_Named_Entity_Recognition.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "9.6",
+        "Title":  "Summary",
+        "File":  "06_9.6_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "07_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

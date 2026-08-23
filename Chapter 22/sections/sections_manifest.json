@@ -1,0 +1,98 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Semantic_Role_Labeling",
+        "File":  "00_Semantic_Role_Labeling.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "22.1",
+        "Title":  "Semantic Roles",
+        "File":  "01_22.1_Semantic_Roles.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "22.2",
+        "Title":  "Diathesis Alternations",
+        "File":  "02_22.2_Diathesis_Alternations.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "22.3",
+        "Title":  "Semantic Roles: Problems with Thematic Roles",
+        "File":  "03_22.3_Semantic_Roles_Problems_with_Thematic_Roles.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "22.4",
+        "Title":  "The Proposition Bank",
+        "File":  "04_22.4_The_Proposition_Bank.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "22.5",
+        "Title":  "FrameNet",
+        "File":  "05_22.5_FrameNet.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "22.6",
+        "Title":  "Semantic Role Labeling",
+        "File":  "06_22.6_Semantic_Role_Labeling.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "22.7",
+        "Title":  "Selectional Restrictions",
+        "File":  "07_22.7_Selectional_Restrictions.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "22.8",
+        "Title":  "Primitive Decomposition of Predicates",
+        "File":  "08_22.8_Primitive_Decomposition_of_Predicates.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "22.9",
+        "Title":  "Summary",
+        "File":  "09_22.9_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "10_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "11_Exercises.md",
+        "ImageCount":  0
+    }
+]

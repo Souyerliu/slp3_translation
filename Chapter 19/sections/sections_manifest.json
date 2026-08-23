@@ -1,0 +1,106 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Context-Free_Grammars_and_Constituency_Parsing",
+        "File":  "00_Context-Free_Grammars_and_Constituency_Parsing.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "19.1",
+        "Title":  "Constituency",
+        "File":  "01_19.1_Constituency.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "19.2",
+        "Title":  "Context-Free Grammars",
+        "File":  "02_19.2_Context-Free_Grammars.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "19.3",
+        "Title":  "Treebanks",
+        "File":  "03_19.3_Treebanks.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "19.4",
+        "Title":  "Grammar Equivalence and Normal Form",
+        "File":  "04_19.4_Grammar_Equivalence_and_Normal_Form.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "19.5",
+        "Title":  "Ambiguity",
+        "File":  "05_19.5_Ambiguity.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "19.6",
+        "Title":  "CKY Parsing: A Dynamic Programming Approach",
+        "File":  "06_19.6_CKY_Parsing_A_Dynamic_Programming_Approach.md",
+        "ImageCount":  7
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "19.7",
+        "Title":  "Span-Based Neural Constituency Parsing",
+        "File":  "07_19.7_Span-Based_Neural_Constituency_Parsing.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "19.8",
+        "Title":  "Evaluating Parsers",
+        "File":  "08_19.8_Evaluating_Parsers.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "19.9",
+        "Title":  "Heads and Head-Finding",
+        "File":  "09_19.9_Heads_and_Head-Finding.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "numbered",
+        "Label":  "19.10",
+        "Title":  "Summary",
+        "File":  "10_19.10_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "11_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  12,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "12_Exercises.md",
+        "ImageCount":  0
+    }
+]

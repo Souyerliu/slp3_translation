@@ -1,0 +1,74 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Automatic_Speech_Recognition",
+        "File":  "00_Automatic_Speech_Recognition.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "16.1",
+        "Title":  "The Automatic Speech Recognition Task",
+        "File":  "01_16.1_The_Automatic_Speech_Recognition_Task.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "16.2",
+        "Title":  "Convolutional Neural Networks",
+        "File":  "02_16.2_Convolutional_Neural_Networks.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "16.3",
+        "Title":  "The Encoder-Decoder Architecture for ASR",
+        "File":  "03_16.3_The_Encoder-Decoder_Architecture_for_ASR.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "16.4",
+        "Title":  "Self-supervised models: HuBERT",
+        "File":  "04_16.4_Self-supervised_models_HuBERT.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "16.5",
+        "Title":  "CTC",
+        "File":  "05_16.5_CTC.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "16.6",
+        "Title":  "ASR Evaluation: Word Error Rate",
+        "File":  "06_16.6_ASR_Evaluation_Word_Error_Rate.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "16.7",
+        "Title":  "Summary",
+        "File":  "07_16.7_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "08_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

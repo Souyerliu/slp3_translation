@@ -1,0 +1,74 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Text-to-Speech",
+        "File":  "00_Text-to-Speech.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "17.1",
+        "Title":  "TTS overview",
+        "File":  "01_17.1_TTS_overview.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "17.2",
+        "Title":  "Using a codec to learn discrete audio tokens",
+        "File":  "02_17.2_Using_a_codec_to_learn_discrete_audio_tokens.md",
+        "ImageCount":  5
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "17.3",
+        "Title":  "VALL-E: Generating audio with 2-stage LM",
+        "File":  "03_17.3_VALL-E_Generating_audio_with_2-stage_LM.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "17.4",
+        "Title":  "TTS Evaluation",
+        "File":  "04_17.4_TTS_Evaluation.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "17.5",
+        "Title":  "Other speech tasks",
+        "File":  "05_17.5_Other_speech_tasks.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "17.6",
+        "Title":  "Spoken Language Models",
+        "File":  "06_17.6_Spoken_Language_Models.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "17.7",
+        "Title":  "Summary",
+        "File":  "07_17.7_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "08_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

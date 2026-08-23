@@ -1,0 +1,90 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "RNNs_and_LSTMs",
+        "File":  "00_RNNs_and_LSTMs.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "14.1",
+        "Title":  "Recurrent Neural Networks",
+        "File":  "01_14.1_Recurrent_Neural_Networks.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "14.2",
+        "Title":  "RNNs as Language Models",
+        "File":  "02_14.2_RNNs_as_Language_Models.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "14.3",
+        "Title":  "RNNs for other NLP tasks",
+        "File":  "03_14.3_RNNs_for_other_NLP_tasks.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "14.4",
+        "Title":  "Stacked and Bidirectional RNN architectures",
+        "File":  "04_14.4_Stacked_and_Bidirectional_RNN_architectures.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "14.5",
+        "Title":  "The LSTM",
+        "File":  "05_14.5_The_LSTM.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "14.6",
+        "Title":  "Summary: Common RNN NLP Architectures",
+        "File":  "06_14.6_Summary_Common_RNN_NLP_Architectures.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "14.7",
+        "Title":  "The Encoder-Decoder Model with RNNs",
+        "File":  "07_14.7_The_Encoder-Decoder_Model_with_RNNs.md",
+        "ImageCount":  4
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "14.8",
+        "Title":  "Attention",
+        "File":  "08_14.8_Attention.md",
+        "ImageCount":  3
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "14.9",
+        "Title":  "Summary",
+        "File":  "09_14.9_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "10_Historical_Notes.md",
+        "ImageCount":  0
+    }
+]

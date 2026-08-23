@@ -1,0 +1,98 @@
+[
+    {
+        "Order":  0,
+        "Kind":  "intro",
+        "Label":  "",
+        "Title":  "Information_Extraction_Relations_Events_and_Time",
+        "File":  "00_Information_Extraction_Relations_Events_and_Time.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  1,
+        "Kind":  "numbered",
+        "Label":  "21.1",
+        "Title":  "Relation Extraction",
+        "File":  "01_21.1_Relation_Extraction.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  2,
+        "Kind":  "numbered",
+        "Label":  "21.2",
+        "Title":  "Relation Extraction Algorithms",
+        "File":  "02_21.2_Relation_Extraction_Algorithms.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  3,
+        "Kind":  "numbered",
+        "Label":  "21.3",
+        "Title":  "Extracting Events",
+        "File":  "03_21.3_Extracting_Events.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  4,
+        "Kind":  "numbered",
+        "Label":  "21.4",
+        "Title":  "Representing Time",
+        "File":  "04_21.4_Representing_Time.md",
+        "ImageCount":  2
+    },
+    {
+        "Order":  5,
+        "Kind":  "numbered",
+        "Label":  "21.5",
+        "Title":  "Representing Aspect",
+        "File":  "05_21.5_Representing_Aspect.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  6,
+        "Kind":  "numbered",
+        "Label":  "21.6",
+        "Title":  "Temporally Annotated Datasets: TimeBank",
+        "File":  "06_21.6_Temporally_Annotated_Datasets_TimeBank.md",
+        "ImageCount":  1
+    },
+    {
+        "Order":  7,
+        "Kind":  "numbered",
+        "Label":  "21.7",
+        "Title":  "Automatic Temporal Analysis",
+        "File":  "07_21.7_Automatic_Temporal_Analysis.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  8,
+        "Kind":  "numbered",
+        "Label":  "21.8",
+        "Title":  "Template Filling",
+        "File":  "08_21.8_Template_Filling.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  9,
+        "Kind":  "numbered",
+        "Label":  "21.9",
+        "Title":  "Summary",
+        "File":  "09_21.9_Summary.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  10,
+        "Kind":  "terminal",
+        "Label":  "Historical Notes",
+        "Title":  "Historical Notes",
+        "File":  "10_Historical_Notes.md",
+        "ImageCount":  0
+    },
+    {
+        "Order":  11,
+        "Kind":  "terminal",
+        "Label":  "Exercises",
+        "Title":  "Exercises",
+        "File":  "11_Exercises.md",
+        "ImageCount":  0
+    }
+]
