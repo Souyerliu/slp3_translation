@@ -1,4 +1,4 @@
-## 历史注记
+# 历史注记
 
 神经网络源于 20 世纪 40 年代的 McCulloch–Pitts 神经元（McCulloch and Pitts, 1943），它把生物神经元简化为可用命题逻辑描述的计算元件。到 20 世纪 50 年代末和 60 年代初，包括康奈尔大学 Frank Rosenblatt 和斯坦福大学 Bernard Widrow 在内的多个实验室开展了神经网络研究。这一时期出现了感知机（Rosenblatt, 1958），还把阈值变换为偏置，形成沿用至今的记号（Widrow and Hoff, 1960）。
 

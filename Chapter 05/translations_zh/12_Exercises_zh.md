@@ -1,4 +1,4 @@
-## 练习
+# 练习
 
 **5.1** 使用图 5.2 的共现计数，并且只使用 pie 和 result 两个维度，计算 $\cos(\text{cherry},\text{strawberry})$ 和 $\cos(\text{cherry},\text{digital})$。哪一对更相似？结果符合你对这些词义的直觉吗？
 

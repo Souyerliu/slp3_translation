@@ -1,4 +1,4 @@
-## 练习
+# 练习
 
 2.1 把你熟悉的一种语言中的句子翻译成另一种语言。然后对两个句子进行词元化，例如使用 Tat Dat Duong 的 Tiktokenizer 可视化工具（https://tiktokenizer.vercel.app/），观察词元数量是否不同。
 

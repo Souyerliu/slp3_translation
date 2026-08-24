@@ -23,30 +23,6 @@ python -m venv .venv-book
 
 随后访问 `http://localhost:3000/`。
 
-## 严格构建
-
-```powershell
-.\.venv-book\Scripts\jupyter.exe book build --html --strict
-```
-
-静态网站生成在 `_build/html/`。
-
-## GitHub Pages 部署
-
-`main` 分支每次推送后，[Pages 工作流](.github/workflows/pages.yml)会自动严格构建并发布站点。也可以在 GitHub 仓库的 **Actions** 页面手动运行。
-
-首次使用时，请在仓库 **Settings → Pages → Build and deployment → Source** 中选择 **GitHub Actions**。发布成功后访问：
-
-<https://souyerliu.github.io/slp3_translation/>
-
-## 内容检查
-
-Windows PowerShell 执行策略可能禁止直接运行仓库脚本。以下命令只为当前子进程放行，不修改系统策略：
-
-```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\check_book.ps1
-```
-
 ## 脚注
 
 正文中的脚注使用 MyST 原生语法。引用会显示为可点击的上标数字，注释集中显示在当前页面底部，并可跳回引用位置：

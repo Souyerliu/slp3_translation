@@ -1,4 +1,4 @@
-## 历史说明
+# 历史说明
 
 关于 Herdan 定律和 Heaps 定律的更多内容，参见 Herdan（1960，第 28 页）、Heaps（1978）、Egghe（2007）和 Baayen（2001）。
 
