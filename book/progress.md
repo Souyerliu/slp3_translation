@@ -10,11 +10,11 @@ description: SLP3 中文翻译各章的当前状态
 | 章节 | 原文标题 | 当前状态 |
 | --- | --- | --- |
 | 第 1 章 | Introduction | 已上线 |
-| 第 2 章 | Words and Tokens | 翻译中 |
-| 第 3 章 | N-gram Language Models | 待翻译 |
-| 第 4 章 | Logistic Regression and Text Classification | 待翻译 |
-| 第 5 章 | Embeddings | 待翻译 |
-| 第 6 章 | Neural Networks | 待翻译 |
+| 第 2 章 | Words and Tokens | 已上线 |
+| 第 3 章 | N-gram Language Models | 已上线 |
+| 第 4 章 | Logistic Regression and Text Classification | 已上线 |
+| 第 5 章 | Embeddings | 已上线 |
+| 第 6 章 | Neural Networks | 已上线 |
 | 第 7 章 | Transformers and Pretraining | 已上线 |
 | 第 8 章 | Post-training | 已上线 |
 | 第 9 章 | Masked Language Models | 已上线 |
@@ -35,4 +35,3 @@ description: SLP3 中文翻译各章的当前状态
 | 第 24 章 | Coreference Resolution and Entity Linking | 待翻译 |
 | 第 25 章 | Discourse Coherence | 待翻译 |
 | 第 26 章 | Conversation and its Structure | 待翻译 |
-

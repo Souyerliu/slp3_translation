@@ -8,7 +8,7 @@ $translationRoot = (Resolve-Path -LiteralPath $TranslationDirectory).Path
 $files = Get-ChildItem -LiteralPath $translationRoot -Filter '*_zh.md' -File
 
 $phrases = @(
-    '大型语言模型（large language model，LLM）',
+    '大语言模型（large language model，LLM）',
     '自然语言处理（natural language processing，NLP）',
     '计算语言学（computational linguistics）',
     '口语语言处理（spoken language processing）',

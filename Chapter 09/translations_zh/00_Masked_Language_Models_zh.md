@@ -2,9 +2,8 @@
 
 [原始 PDF](../../MinerU-Skill/ed3book_aug26_3a047d/split_pdf/09_Masked_Language_Models.pdf)
 
-Larvatus prodeo［戴着面具，我前行］
-
-Descartes
+> Larvatus prodeo［戴着面具，我前行］   
+> Descartes
 
 前两章介绍了 Transformer，并说明如何把 Transformer 语言模型预训练成因果语言模型或从左到右语言模型。本章将介绍预训练语言模型的第二种范式——**双向变换器编码器**（bidirectional transformer encoder），以及其中使用最广泛的 BERT 模型家族（Devlin et al., 2019）。这种模型通过 **掩码语言建模**（masked language modeling）进行训练：它不预测后面的词，而是遮住中间的一个词，要求模型根据两侧的词猜出被遮住的词。因此，该方法允许模型同时看到右侧和左侧上下文。
 

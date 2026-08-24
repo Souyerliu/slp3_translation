@@ -15,15 +15,7 @@ python -m venv .venv-book
 
 ## 本地预览
 
-Windows 下直接双击仓库根目录的 `start.bat` 即可一键启动。首次运行时，脚本会自动创建 `.venv-book` 虚拟环境并安装依赖。
-
-也可以在 PowerShell 中运行：
-
-```powershell
-.\start.bat
-```
-
-如果已经手动安装好环境，也可以直接运行：
+完成上述安装后，在 PowerShell 中启动本地预览：
 
 ```powershell
 .\.venv-book\Scripts\jupyter.exe book start
@@ -69,4 +61,4 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\check_book.ps1
 
 ## 内容范围
 
-当前目录只收录第 1、7、8、9、10 章。新增完整章节时，需要同步更新 `toc.yml` 和 `book/progress.md`。
+当前目录只收录前 10 章。新增完整章节时，需要同步更新 `toc.yml` 和 `book/progress.md`。

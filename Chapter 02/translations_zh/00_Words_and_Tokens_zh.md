@@ -1,5 +1,7 @@
 # 词与词元
 
+[原始 PDF](../../MinerU-Skill/ed3book_aug26_3a047d/split_pdf/02_Words_and_Tokens.pdf)
+
 用户：我需要一些帮助，这一点似乎很确定。ELIZA：如果你得到一些帮助，那对你意味着什么？用户：也许我可以学会与母亲相处。ELIZA：多告诉我一些你的家庭情况。用户：我母亲照顾我。ELIZA：你家里还有谁照顾你？用户：我父亲。ELIZA：你的父亲。用户：你在某些方面很像我的父亲。
 
 Weizenbaum (1966)

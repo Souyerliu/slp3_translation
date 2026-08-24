@@ -21,6 +21,81 @@ project:
         - file: Chapter 01/translations_zh/10_1.10_Safety_and_Alignment_zh.md
         - file: Chapter 01/translations_zh/11_1.11_Anthropomorphism_and_Terminology_zh.md
         - file: Chapter 01/translations_zh/12_Exercises_zh.md
+    - file: Chapter 02/translations_zh/00_Words_and_Tokens_zh.md
+      title: 第 2 章 词与词元
+      children:
+        - file: Chapter 02/translations_zh/01_2.1_Words_zh.md
+        - file: Chapter 02/translations_zh/02_2.2_Morphemes_Parts_of_Words_zh.md
+        - file: Chapter 02/translations_zh/03_2.3_Unicode_zh.md
+        - file: Chapter 02/translations_zh/04_2.4_Subword_Tokenization_Byte-Pair_Encoding_zh.md
+        - file: Chapter 02/translations_zh/05_2.5_Corpora_zh.md
+        - file: Chapter 02/translations_zh/06_2.6_Regular_Expressions_zh.md
+        - file: Chapter 02/translations_zh/07_2.7_Simple_Unix_Tools_for_Word_Tokenization_zh.md
+        - file: Chapter 02/translations_zh/08_2.8_Rule-based_Tokenization_zh.md
+        - file: Chapter 02/translations_zh/09_2.9_Minimum_Edit_Distance_zh.md
+        - file: Chapter 02/translations_zh/10_2.10_Summary_zh.md
+        - file: Chapter 02/translations_zh/11_Historical_Notes_zh.md
+        - file: Chapter 02/translations_zh/12_Exercises_zh.md
+    - file: Chapter 03/translations_zh/00_N-gram_Language_Models_zh.md
+      title: 第 3 章 n 元语言模型
+      children:
+        - file: Chapter 03/translations_zh/01_3.1_N-Grams_zh.md
+        - file: Chapter 03/translations_zh/02_3.2_Evaluating_Language_Models_Training_and_Test_Sets_zh.md
+        - file: Chapter 03/translations_zh/03_3.3_Evaluating_Language_Models_Perplexity_zh.md
+        - file: Chapter 03/translations_zh/04_3.4_Sampling_sentences_from_a_language_model_zh.md
+        - file: Chapter 03/translations_zh/05_3.5_Generalizing_vs._overfitting_the_training_set_zh.md
+        - file: Chapter 03/translations_zh/06_3.6_Smoothing_Interpolation_and_Backoff_zh.md
+        - file: Chapter 03/translations_zh/07_3.7_Advanced_Perplexity_s_Relation_to_Entropy_zh.md
+        - file: Chapter 03/translations_zh/08_3.8_Summary_zh.md
+        - file: Chapter 03/translations_zh/09_Historical_Notes_zh.md
+        - file: Chapter 03/translations_zh/10_Exercises_zh.md
+    - file: Chapter 04/translations_zh/00_Logistic_Regression_zh.md
+      title: 第 4 章 逻辑回归与文本分类
+      children:
+        - file: Chapter 04/translations_zh/01_4.1_Machine_learning_and_classification_zh.md
+        - file: Chapter 04/translations_zh/02_4.2_The_sigmoid_function_zh.md
+        - file: Chapter 04/translations_zh/03_4.3_Classification_with_Logistic_Regression_zh.md
+        - file: Chapter 04/translations_zh/04_4.4_Learning_in_Logistic_Regression_zh.md
+        - file: Chapter 04/translations_zh/05_4.5_The_cross-entropy_loss_function_zh.md
+        - file: Chapter 04/translations_zh/06_4.6_Gradient_Descent_zh.md
+        - file: Chapter 04/translations_zh/07_4.7_Multinomial_logistic_regression_zh.md
+        - file: Chapter 04/translations_zh/08_4.8_Learning_in_Multinomial_Logistic_Regression_zh.md
+        - file: Chapter 04/translations_zh/09_4.9_Evaluation_Precision_Recall_F-measure_zh.md
+        - file: Chapter 04/translations_zh/10_4.10_Test_sets_and_Cross-validation_zh.md
+        - file: Chapter 04/translations_zh/11_4.11_Statistical_Significance_Testing_zh.md
+        - file: Chapter 04/translations_zh/12_4.12_Avoiding_Harms_in_Classification_zh.md
+        - file: Chapter 04/translations_zh/13_4.13_Interpreting_models_zh.md
+        - file: Chapter 04/translations_zh/14_4.14_Advanced_Regularization_zh.md
+        - file: Chapter 04/translations_zh/15_4.15_Advanced_Deriving_the_Gradient_Equation_zh.md
+        - file: Chapter 04/translations_zh/16_4.16_Summary_zh.md
+        - file: Chapter 04/translations_zh/17_Historical_Notes_zh.md
+        - file: Chapter 04/translations_zh/18_Exercises_zh.md
+    - file: Chapter 05/translations_zh/00_Embeddings_zh.md
+      title: 第 5 章 嵌入
+      children:
+        - file: Chapter 05/translations_zh/01_5.1_Lexical_Semantics_zh.md
+        - file: Chapter 05/translations_zh/02_5.2_Vector_Semantics_The_Intuition_zh.md
+        - file: Chapter 05/translations_zh/03_5.3_Simple_count-based_embeddings_zh.md
+        - file: Chapter 05/translations_zh/04_5.4_Cosine_for_Measuring_Similarity_zh.md
+        - file: Chapter 05/translations_zh/05_5.5_Word2vec_zh.md
+        - file: Chapter 05/translations_zh/06_5.6_Visualizing_EmbeddingsDOGCAT_zh.md
+        - file: Chapter 05/translations_zh/07_5.7_Semantic_properties_of_embeddings_zh.md
+        - file: Chapter 05/translations_zh/08_5.8_Bias_and_Embeddings_zh.md
+        - file: Chapter 05/translations_zh/09_5.9_Evaluating_Vector_Models_zh.md
+        - file: Chapter 05/translations_zh/10_5.10_Summary_zh.md
+        - file: Chapter 05/translations_zh/11_Historical_Notes_zh.md
+        - file: Chapter 05/translations_zh/12_Exercises_zh.md
+    - file: Chapter 06/translations_zh/00_Neural_Networks_zh.md
+      title: 第 6 章 神经网络
+      children:
+        - file: Chapter 06/translations_zh/01_6.1_Units_zh.md
+        - file: Chapter 06/translations_zh/02_6.2_The_XOR_problem_zh.md
+        - file: Chapter 06/translations_zh/03_6.3_Feedforward_Neural_Networks_zh.md
+        - file: Chapter 06/translations_zh/04_6.4_Feedforward_networks_for_NLP_Classification_zh.md
+        - file: Chapter 06/translations_zh/05_6.5_Embeddings_as_the_input_to_neural_net_classifiers_zh.md
+        - file: Chapter 06/translations_zh/06_6.6_Training_Neural_Nets_zh.md
+        - file: Chapter 06/translations_zh/07_6.7_Summary_zh.md
+        - file: Chapter 06/translations_zh/08_Historical_Notes_zh.md
     - file: Chapter 07/translations_zh/00_Transformers_and_Pretraining_zh.md
       title: 第 7 章 Transformer 与预训练
       children:
@@ -43,7 +118,6 @@ project:
         - file: Chapter 08/translations_zh/03_8.3_Learning_from_Preferences_zh.md
         - file: Chapter 08/translations_zh/04_8.4_LLM_Alignment_via_Preference-Based_Learning_zh.md
         - file: Chapter 08/translations_zh/05_8.5_Summary_zh.md
-        - file: Chapter 08/translations_zh/06_Historical_Notes_zh.md
     - file: Chapter 09/translations_zh/00_Masked_Language_Models_zh.md
       title: 第 9 章 掩码语言模型
       children:
@@ -65,4 +139,3 @@ project:
         - file: Chapter 10/translations_zh/06_10.6_In-Context_Learning_and_Induction_Heads_zh.md
     - file: book/about.md
       title: 关于本项目
-

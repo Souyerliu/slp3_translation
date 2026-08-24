@@ -13,7 +13,7 @@ project:
   keywords:
     - 自然语言处理
     - 语音与语言处理
-    - 大型语言模型
+    - 大语言模型
     - Speech and Language Processing
   exclude:
     - _build/**

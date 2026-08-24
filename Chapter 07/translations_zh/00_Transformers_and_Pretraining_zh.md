@@ -4,7 +4,7 @@
 
 > “真正的记忆艺术，就是注意的艺术。”  ——塞缪尔·约翰逊, Idler #74, September 1759
 
-本章将介绍构建大型语言模型的标准架构 Transformer，以及如何预训练 Transformer、如何使用它们生成文本。我们将介绍用于从左到右语言建模的 Transformer；这种建模有时也称为**因果语言建模**（causal language modeling）、**自回归语言建模**（autoregressive language modeling）或**解码器语言建模**（decoder language modeling）：给定一串输入词元后，模型以先前上下文为条件，逐个预测输出词元。第 9 章将介绍编码器等其他架构。
+本章将介绍构建大语言模型的标准架构 Transformer，以及如何预训练 Transformer、如何使用它们生成文本。我们将介绍用于从左到右语言建模的 Transformer；这种建模有时也称为**因果语言建模**（causal language modeling）、**自回归语言建模**（autoregressive language modeling）或**解码器语言建模**（decoder language modeling）：给定一串输入词元后，模型以先前上下文为条件，逐个预测输出词元。第 9 章将介绍编码器等其他架构。
 
 ![](../images/figure7.1.jpg)
 
