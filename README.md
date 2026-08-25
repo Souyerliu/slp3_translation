@@ -37,4 +37,4 @@ python -m venv .venv-book
 
 ## 内容范围
 
-当前目录只收录前 10 章。新增完整章节时，需要同步更新 `toc.yml` 和 `book/progress.md`。
+当前目录收录第 1～13 章的中文内容；其中第 12 章的英文原稿仍为占位页，译文已据实标注。新增完整章节时，需要同步更新 `toc.yml` 和 `book/progress.md`。

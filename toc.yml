@@ -137,5 +137,32 @@ project:
         - file: Chapter 10/translations_zh/04_10.4_Sparse_Auto-Encoders_zh.md
         - file: Chapter 10/translations_zh/05_10.5_Causal_Interpretability_Techniques_zh.md
         - file: Chapter 10/translations_zh/06_10.6_In-Context_Learning_and_Induction_Heads_zh.md
+    - file: Chapter 11/translations_zh/00_Retrieval-based_Models_zh.md
+      title: 第 11 章 信息检索与检索增强生成
+      children:
+        - file: Chapter 11/translations_zh/01_11.1_Information_Retrieval_zh.md
+        - file: Chapter 11/translations_zh/02_11.2_Evaluation_of_Information-Retrieval_Systems_zh.md
+        - file: Chapter 11/translations_zh/03_11.3_Information_Retrieval_with_Dense_Vectors_zh.md
+        - file: Chapter 11/translations_zh/04_11.4_Retrieval-Augmented_Generation_RAG_zh.md
+        - file: Chapter 11/translations_zh/05_11.5_Datasets_zh.md
+        - file: Chapter 11/translations_zh/06_11.6_Evaluating_Question_Answering_zh.md
+        - file: Chapter 11/translations_zh/07_11.7_Summary_zh.md
+        - file: Chapter 11/translations_zh/08_Historical_Notes_zh.md
+        - file: Chapter 11/translations_zh/09_Exercises_zh.md
+    - file: Chapter 12/translations_zh/00_Agents_zh.md
+      title: 第 12 章 智能体（原文占位）
+    - file: Chapter 13/translations_zh/00_Machine_Translation_zh.md
+      title: 第 13 章 机器翻译
+      children:
+        - file: Chapter 13/translations_zh/01_13.1_Language_Divergences_and_Typology_zh.md
+        - file: Chapter 13/translations_zh/02_13.2_Machine_Translation_using_Encoder-Decoder_zh.md
+        - file: Chapter 13/translations_zh/03_13.3_Details_of_the_Encoder-Decoder_Model_zh.md
+        - file: Chapter 13/translations_zh/04_13.4_Decoding_in_MT_Beam_Search_zh.md
+        - file: Chapter 13/translations_zh/05_13.5_Translating_in_low-resource_situations_zh.md
+        - file: Chapter 13/translations_zh/06_13.6_MT_Evaluation_zh.md
+        - file: Chapter 13/translations_zh/07_13.7_Bias_and_Ethical_Issues_zh.md
+        - file: Chapter 13/translations_zh/08_13.8_Summary_zh.md
+        - file: Chapter 13/translations_zh/09_Historical_Notes_zh.md
+        - file: Chapter 13/translations_zh/10_Exercises_zh.md
     - file: book/about.md
       title: 关于本项目

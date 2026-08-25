@@ -19,9 +19,9 @@ description: SLP3 中文翻译各章的当前状态
 | 第 8 章 | Post-training | 已上线 |
 | 第 9 章 | Masked Language Models | 已上线 |
 | 第 10 章 | Interpretability | 已上线 |
-| 第 11 章 | Retrieval-based Models | 待翻译 |
-| 第 12 章 | Agents | 待翻译 |
-| 第 13 章 | Machine Translation | 待翻译 |
+| 第 11 章 | Information Retrieval and Retrieval-Augmented Generation | 已上线 |
+| 第 12 章 | Agents | 原文占位（已译） |
+| 第 13 章 | Machine Translation | 已上线 |
 | 第 14 章 | RNNs and LSTMs | 待翻译 |
 | 第 15 章 | Phonetics and Speech Feature Extraction | 待翻译 |
 | 第 16 章 | Automatic Speech Recognition | 待翻译 |
