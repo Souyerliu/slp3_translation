@@ -5,3 +5,4 @@ node_modules/
 .editor-backups/
 __pycache__/
 start.bat
+*.ps1
