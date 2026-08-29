@@ -15,8 +15,8 @@ foreach ($chapter in $publishedChapters) {
     }
 }
 
-if ($files.Count -ne 47) {
-    $errors.Add("Expected 47 published Markdown pages, found $($files.Count).")
+if ($files.Count -ne 46) {
+    $errors.Add("Expected 46 published Markdown pages, found $($files.Count).")
 }
 
 foreach ($file in $files) {

@@ -39,7 +39,7 @@ site:
   options:
     folders: true
     style: book/static/book.css
-    favicon: book/static/favicon.svg
+    favicon: book/static/favicon.ico
     logo_text: SLP3 中文翻译
   nav:
     - title: 翻译进度
