@@ -3,7 +3,7 @@
 [原始 PDF](../../MinerU-Skill/ed3book_aug26_3a047d/split_pdf/13_Machine_Translation.pdf)
 
 > “我想说你们族人的方言。说话若不能让人理解，就毫无用处。”
->
+> 
 > Zora Neale Hurston，*Moses, Man of the Mountain*，1939，第 121 页
 
 本章介绍**机器翻译**（machine translation, MT），即使用计算机把一种语言翻译成另一种语言。
@@ -15,7 +15,7 @@
 用于信息获取的 MT 可能是 NLP 技术最常见的用途之一；仅 Google 翻译每天就在 100 多种语言之间翻译数千亿词：
 
 > En un recipiente hondo, mezclar el jugo de naranja con el azúcar, jengibre, y nuez moscada.
->
+> 
 > 在一个深碗中，将橙汁与糖、姜和肉豆蔻混合。
 
 改进机器翻译因而有助于缩小信息获取中所谓的**数字鸿沟**：英语和富裕国家所用的其他语言拥有多得多的信息。英语网络搜索返回的信息远多于其他语言，维基百科等在线资源的英语版本和其他高资源语言版本也大得多。高质量翻译可以帮助低资源语言的使用者获取这些信息。
@@ -28,11 +28,11 @@ MT 的标准算法是**编码器—解码器模型**。第 9 章曾简要提到�
 
 (13.1) 英语：He wrote a letter to a friend
 
-日语：tomodachi ni tegami-o kaita
+           日语：友達       に  手紙を   書いた
 
-朋友　向　信　写了
+            　       friend　to  letter　  write
 
-两种语言中的句子成分位置差异很大。英语动词位于句中，日语动词 kaita 则位于句末；日语句子不要求出现代词 he，英语却需要。
+两种语言中的句子成分位置差异很大。英语动词位于句中，日语动词 書いた 则位于句末；日语句子不要求出现代词 he，英语却需要。
 
 语言差异可能相当复杂。下面这个联合国真实例句中，请注意中文句子（我们给出了逐词英语释义）与人工译出的英文对应句之间的许多变化：
 

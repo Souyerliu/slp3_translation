@@ -164,5 +164,116 @@ project:
         - file: Chapter 13/translations_zh/08_13.8_Summary_zh.md
         - file: Chapter 13/translations_zh/09_Historical_Notes_zh.md
         - file: Chapter 13/translations_zh/10_Exercises_zh.md
+    - file: Appendix A/translations_zh/00_Hidden_Markov_Models_zh.md
+      title: 附录 A 隐马尔可夫模型
+      children:
+        - file: Appendix A/translations_zh/01_A.1_Markov_Chains_zh.md
+        - file: Appendix A/translations_zh/02_A.2_The_Hidden_Markov_Model_zh.md
+        - file: Appendix A/translations_zh/03_A.3_Likelihood_Computation_The_Forward_Algorithm_zh.md
+        - file: Appendix A/translations_zh/04_A.4_Decoding_The_Viterbi_Algorithm_zh.md
+        - file: Appendix A/translations_zh/05_A.5_HMM_Training_The_Forward-Backward_Algorithm_zh.md
+        - file: Appendix A/translations_zh/06_A.6_Summary_zh.md
+        - file: Appendix A/translations_zh/07_Historical_Notes_zh.md
+    - file: Appendix B/translations_zh/00_Naive_Bayes_Text_Classification_and_Sentiment_zh.md
+      title: 附录 B 朴素贝叶斯、文本分类与情感分析
+      children:
+        - file: Appendix B/translations_zh/01_B.1_Naive_Bayes_Classifiers_zh.md
+        - file: Appendix B/translations_zh/02_B.2_Training_the_Naive_Bayes_Classifier_zh.md
+        - file: Appendix B/translations_zh/03_B.3_Worked_Example_zh.md
+        - file: Appendix B/translations_zh/04_B.4_Optimizing_for_Sentiment_Analysis_zh.md
+        - file: Appendix B/translations_zh/05_B.5_Other_Text_Classification_Tasks_zh.md
+        - file: Appendix B/translations_zh/06_B.6_Naive_Bayes_as_a_Language_Model_zh.md
+        - file: Appendix B/translations_zh/07_B.7_Precision_Recall_F-measure_zh.md
+        - file: Appendix B/translations_zh/08_B.7.1_Multiclass_Evaluation_zh.md
+        - file: Appendix B/translations_zh/09_B.8_Test_Sets_and_Cross-validation_zh.md
+        - file: Appendix B/translations_zh/10_B.9_Statistical_Significance_Testing_zh.md
+        - file: Appendix B/translations_zh/11_B.9.1_Paired_Bootstrap_Test_zh.md
+        - file: Appendix B/translations_zh/12_B.10_Avoiding_Harms_in_Classification_zh.md
+        - file: Appendix B/translations_zh/13_B.11_Summary_zh.md
+        - file: Appendix B/translations_zh/14_Historical_Notes_zh.md
+        - file: Appendix B/translations_zh/15_Exercises_and_References_zh.md
+    - file: Appendix C/translations_zh/00_Kneser-Ney_Smoothing_zh.md
+      title: 附录 C Kneser–Ney 平滑
+      children:
+        - file: Appendix C/translations_zh/01_C.1_Absolute_Discounting_zh.md
+        - file: Appendix C/translations_zh/02_C.2_Kneser-Ney_Discounting_zh.md
+    - file: Appendix D/translations_zh/00_Spelling_Correction_and_the_Noisy_Channel_zh.md
+      title: 附录 D 拼写纠错与噪声信道
+      children:
+        - file: Appendix D/translations_zh/01_D.1_The_Noisy_Channel_Model_zh.md
+        - file: Appendix D/translations_zh/02_D.2_Real-word_Spelling_Errors_zh.md
+        - file: Appendix D/translations_zh/03_D.3_Noisy_Channel_Model_The_State_of_the_Art_zh.md
+        - file: Appendix D/translations_zh/04_Historical_Notes_zh.md
+        - file: Appendix D/translations_zh/05_Exercises_zh.md
+    - file: Appendix E/translations_zh/00_Statistical_Constituency_Parsing_zh.md
+      title: 附录 E 统计成分句法分析
+      children:
+        - file: Appendix E/translations_zh/01_E.1_Probabilistic_Context-Free_Grammars_zh.md
+        - file: Appendix E/translations_zh/02_E.1.1_PCFGs_for_Disambiguation_zh.md
+        - file: Appendix E/translations_zh/03_E.1.2_PCFGs_for_Language_Modeling_zh.md
+        - file: Appendix E/translations_zh/04_E.2_Probabilistic_CKY_Parsing_zh.md
+        - file: Appendix E/translations_zh/05_E.3_Learning_PCFG_Rule_Probabilities_zh.md
+        - file: Appendix E/translations_zh/06_E.4_Problems_with_PCFGs_zh.md
+        - file: Appendix E/translations_zh/07_E.4.1_Independence_Assumptions_zh.md
+        - file: Appendix E/translations_zh/08_E.4.2_Lexical_Dependencies_zh.md
+        - file: Appendix E/translations_zh/09_E.5_Splitting_Non-Terminals_zh.md
+        - file: Appendix E/translations_zh/10_E.6_Probabilistic_Lexicalized_CFGs_zh.md
+        - file: Appendix E/translations_zh/11_E.6.1_The_Collins_Parser_zh.md
+        - file: Appendix E/translations_zh/12_E.7_Summary_zh.md
+        - file: Appendix E/translations_zh/13_Historical_Notes_zh.md
+        - file: Appendix E/translations_zh/14_Exercises_and_References_zh.md
+    - file: Appendix F/translations_zh/00_Constituency_Grammars_zh.md
+      title: 附录 F 成分语法
+      children:
+        - file: Appendix F/translations_zh/01_F.1_Constituency_zh.md
+        - file: Appendix F/translations_zh/02_F.2_Context-Free_Grammars_zh.md
+        - file: Appendix F/translations_zh/03_F.3_Some_Grammar_Rules_for_English_zh.md
+        - file: Appendix F/translations_zh/04_F.4_Treebanks_zh.md
+        - file: Appendix F/translations_zh/05_F.5_Grammar_Equivalence_and_Normal_Form_zh.md
+        - file: Appendix F/translations_zh/06_F.6_Summary_zh.md
+        - file: Appendix F/translations_zh/07_Historical_Notes_zh.md
+        - file: Appendix F/translations_zh/08_Exercises_zh.md
+    - file: Appendix G/translations_zh/00_Combinatory_Categorial_Grammar_zh.md
+      title: 附录 G 组合范畴语法
+      children:
+        - file: Appendix G/translations_zh/01_G.1_CCG_Categories_zh.md
+        - file: Appendix G/translations_zh/02_G.2_The_Lexicon_zh.md
+        - file: Appendix G/translations_zh/03_G.3_Rules_zh.md
+        - file: Appendix G/translations_zh/04_G.4_CCGbank_zh.md
+        - file: Appendix G/translations_zh/05_G.5_Ambiguity_in_CCG_zh.md
+        - file: Appendix G/translations_zh/06_G.6_CCG_Parsing_zh.md
+        - file: Appendix G/translations_zh/07_G.7_Summary_zh.md
+        - file: Appendix G/translations_zh/08_Historical_Notes_zh.md
+    - file: Appendix H/translations_zh/00_Logical_Representations_of_Sentence_Meaning_zh.md
+      title: 附录 H 句子意义的逻辑表示
+      children:
+        - file: Appendix H/translations_zh/01_H.1_Computational_Desiderata_for_Representations_zh.md
+        - file: Appendix H/translations_zh/02_H.2_Model-Theoretic_Semantics_zh.md
+        - file: Appendix H/translations_zh/03_H.3_First-Order_Logic_zh.md
+        - file: Appendix H/translations_zh/04_H.4_Event_and_State_Representations_zh.md
+        - file: Appendix H/translations_zh/05_H.5_Description_Logics_zh.md
+        - file: Appendix H/translations_zh/06_H.6_Summary_zh.md
+        - file: Appendix H/translations_zh/07_Historical_Notes_zh.md
+        - file: Appendix H/translations_zh/08_Exercises_zh.md
+    - file: Appendix I/translations_zh/00_Word_Senses_and_WordNet_zh.md
+      title: 附录 I 词义与 WordNet
+      children:
+        - file: Appendix I/translations_zh/01_I.1_Word_Senses_zh.md
+        - file: Appendix I/translations_zh/02_I.2_Relations_Between_Senses_zh.md
+        - file: Appendix I/translations_zh/03_I.3_WordNet_A_Database_of_Lexical_Relations_zh.md
+        - file: Appendix I/translations_zh/04_I.4_Word_Sense_Disambiguation_zh.md
+        - file: Appendix I/translations_zh/05_I.5_Alternate_WSD_Algorithms_and_Tasks_zh.md
+        - file: Appendix I/translations_zh/06_I.6_Using_Thesauruses_to_Improve_Embeddings_zh.md
+        - file: Appendix I/translations_zh/07_I.7_Word_Sense_Induction_zh.md
+        - file: Appendix I/translations_zh/08_I.8_Summary_zh.md
+        - file: Appendix I/translations_zh/09_Historical_Notes_zh.md
+        - file: Appendix I/translations_zh/10_Exercises_and_References_zh.md
+    - file: Appendix J/translations_zh/00_Pointwise_Mutual_Information_PMI_zh.md
+      title: 附录 J 逐点互信息（PMI）
+    - file: Appendix K/translations_zh/00_Frame-Based_Dialogue_Systems_zh.md
+      title: 附录 K 基于框架的对话系统
+      children:
+        - file: Appendix K/translations_zh/01_K.1_Dialogue_Acts_and_Dialogue_State_zh.md
+        - file: Appendix K/translations_zh/02_Historical_Notes_zh.md
     - file: book/about.md
       title: 关于本项目

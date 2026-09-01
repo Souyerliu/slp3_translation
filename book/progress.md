@@ -35,3 +35,14 @@ description: SLP3 中文翻译各章的当前状态
 | 第 24 章 | Coreference Resolution and Entity Linking | 待翻译 |
 | 第 25 章 | Discourse Coherence | 待翻译 |
 | 第 26 章 | Conversation and its Structure | 待翻译 |
+| 附录 A | Hidden Markov Models | 已上线 |
+| 附录 B | Naive Bayes, Text Classification, and Sentiment | 已上线 |
+| 附录 C | Kneser–Ney Smoothing | 已上线 |
+| 附录 D | Spelling Correction and the Noisy Channel | 已上线 |
+| 附录 E | Statistical Constituency Parsing | 已上线 |
+| 附录 F | Constituency Grammars | 已上线 |
+| 附录 G | Combinatory Categorial Grammar | 已上线 |
+| 附录 H | Logical Representations of Sentence Meaning | 已上线 |
+| 附录 I | Word Senses and WordNet | 已上线 |
+| 附录 J | Pointwise Mutual Information (PMI) | 已上线 |
+| 附录 K | Frame-Based Dialogue Systems | 已上线 |
